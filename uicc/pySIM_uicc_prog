@@ -1,0 +1,5 @@
+#!/bin/bash
+
+./pySim-prog.py -t sysmoISIM-SJA2 -x 001 -y 01 -j 44701 --op=6A59178A72A356CC82A69F4E4D52E3A7 -p 0 -a 44946794
+
+./pySim-prog.py -t sysmoISIM-SJA2 -x 001 -y 01 -j 44698 --op=C940CE31F4916C027017F516ED65F2E5 -p 0 -a 35127816

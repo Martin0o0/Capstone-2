@@ -1,0 +1,10 @@
+ > Name     : Magic
+ > SMSP     : e1ffffffffffffffffffffffff0581005155f5ffffffffffff000000
+ > ICCID    : 8901001010000446988
+ > MCC/MNC  : 001/01
+ > IMSI     : 001010000044698
+ > Ki       : e29e2203d15b8bf0ec88a312be5a61cd
+ > OPC      : 813954965eec599a11482bd677085793
+ > ACC      : None
+ > ADM1(hex): 3335313237383136
+ > OPMODE   : None
